@@ -2,7 +2,7 @@ name: Pal Tracker Distributed Pipeline
 
 on:
   push:
-    branches: [master]
+    branches: [circuit-breaker-solution-b]
 
 jobs:
   build-and-publish:
